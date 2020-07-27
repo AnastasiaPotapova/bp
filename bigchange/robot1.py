@@ -1,6 +1,5 @@
 import pygame
 import os
-import sys
 
 FPS = 60
 WIN_WIDTH = 1000
